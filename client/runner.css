@@ -1,0 +1,5 @@
+/* CSS declarations go here */
+.high, .medium, .low {opacity: .8;}
+.high {color:red;}
+.medium {color:yellow;}
+.low {color:green;}
